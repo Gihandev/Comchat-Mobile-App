@@ -89,7 +89,7 @@ Demo Video - [Click Here](https://drive.google.com/file/d/1lkuLgbMjpU1Z2Pg6mCZ9G
 ## 👨‍💻 Author
 Gihan Serasinghe  
 - Portfolio: [https://gihandev.vercel.app/](https://gihandev.vercel.app/)  
-- GitHub: [https://github.com/it-21360978](https://github.com/Gihandev)
+- GitHub: [https://github.com/Gihandev](https://github.com/Gihandev)
 
 ---
 
