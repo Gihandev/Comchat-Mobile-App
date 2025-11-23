@@ -1,4 +1,4 @@
-# 💬 Real-Time Chat App (Expo + Node.js + MySQL)
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/13dbb272-4180-4b8f-9258-ead8ec63aec6" /># 💬 Real-Time Chat App (Expo + Node.js + MySQL)
 
 A modern **real-time chat application** built with **React Native (Expo)**, **Redux Toolkit**, and a **Node.js + MySQL + Socket.IO** backend.  
 Users can join instantly by entering a name and exchange messages that appear in real-time across all connected devices.
@@ -89,7 +89,7 @@ Demo Video - [Click Here](https://drive.google.com/file/d/1lkuLgbMjpU1Z2Pg6mCZ9G
 ## 👨‍💻 Author
 Gihan Serasinghe  
 - Portfolio: [https://gihandev.vercel.app/](https://gihandev.vercel.app/)  
-- GitHub: [https://github.com/it-21360978](https://github.com/it-21360978)
+- GitHub: [https://github.com/it-21360978](https://github.com/Gihandev)
 
 ---
 
